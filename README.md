@@ -20,7 +20,7 @@ Here are the key components and instructions for implementing the algorithms und
 If you use the simulator or some results in our paper for a published project, please cite our work by using the following bibtex entry
 
 ```
-@inproceedings{yan2023defl,
+@inproceedings{xiong2024deprl,
   title={DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations},
   author={Guojun Xiong, Gang Yan, Shiqiang Wang, Jian Li},
   booktitle={Proc. of AAAI},
